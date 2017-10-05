@@ -4,6 +4,7 @@ import java.nio.ByteBuffer;
 /**
  * Created by Krishna Tippur Gururaj on 5/3/17.
  * Used Reed-Solomon implementation by Backblaze released under the MIT license
+   https://github.com/Backblaze/JavaReedSolomon
  */
 public class DFSLogic {
 

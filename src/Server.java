@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 /**
  * Created by Krishna Tippur Gururaj on 5/3/17.
+   Referred to the implementation of the Reed-Solomon algorithm by Backblaze
+   https://github.com/Backblaze/JavaReedSolomon
+   Code used under the MIT license
  */
 public class Server {
 

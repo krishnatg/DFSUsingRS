@@ -4,6 +4,8 @@ import java.rmi.registry.LocateRegistry;
 
 /**
  * Created by Krishna Tippur Gururaj on 5/4/17.
+   Used the Backblaze implementation of Reed-Solomon algorithm: https://github.com/Backblaze/JavaReedSolomon
+   That code is released under the MIT license
  */
 public class Client {
     public static void main(String args[]) {
